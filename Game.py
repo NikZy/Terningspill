@@ -5,9 +5,7 @@ import variables
 
 
 def start_game ():
-    '''
-    Compines alle variables and functions and plays the game!
-    '''
+ 
     #Gets playernames and stores them in a DICITONARY
     players = variables.get_players() 
 
